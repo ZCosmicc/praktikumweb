@@ -35,10 +35,6 @@
 
         header('Location: Index.php'); 
 
-        // if(isset($_POST['nomor_member'] , $_POST['password'])) {
-        //     include('Login.php');
-        // }
-
     }
 
 
